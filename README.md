@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there! I’m Nimish Vivek Likhite
 
-<!--
-**Nimish-27/Nimish-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal README! Here’s a bit about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: [Brief description or project name]
+- 🌱 I’m currently learning: [Skills you’re developing]
+- 💬 Ask me about: [Topics you’re comfortable helping with]
+- 📫 How to reach me: [Your preferred contact method/email]
+
+## 🛠️ Skills
+
+- Programming: [List your main programming languages]
+- Tools: [List key tools/software/technologies]
+- Soft Skills: [Communication, teamwork, etc.]
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/nimish-likhite)
+
+---
+
+*Thank you for visiting my profile!*
